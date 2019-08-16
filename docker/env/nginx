@@ -1,0 +1,3 @@
+NGINX_CONFIG=developer.conf
+NGINX_HOST=project.local
+NGINX_DOCROOT=/var/www/project
